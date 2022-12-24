@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "ok-chips")(type "KiCad")(uri "${OK_LIB_DIR}/symbols/ok-chips.kicad_sym")(options "")(descr ""))
+  (lib (name "ok-connectors")(type "KiCad")(uri "${OK_LIB_DIR}/symbols/ok-connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "ok-modules")(type "KiCad")(uri "${OK_LIB_DIR}/symbols/ok-modules.kicad_sym")(options "")(descr ""))
+)

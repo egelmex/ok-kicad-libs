@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ok-chips")(type "KiCad")(uri "${OK_LIB_DIR}/footprints/ok-chips.pretty")(options "")(descr ""))
+  (lib (name "ok-connectors")(type "KiCad")(uri "${OK_LIB_DIR}/footprints/ok-connectors.pretty")(options "")(descr ""))
+  (lib (name "ok-modules")(type "KiCad")(uri "${OK_LIB_DIR}/footprints/ok-modules.pretty")(options "")(descr ""))
+)
